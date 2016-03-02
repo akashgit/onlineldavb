@@ -1,4 +1,7 @@
+Modified from:
 ONLINE VARIATIONAL BAYES FOR LATENT DIRICHLET ALLOCATION
+
+for adding interactivity.
 
 Matthew D. Hoffman
 mdhoffma@cs.princeton.edu
